@@ -1,13 +1,17 @@
 {
   "name": "back-end-development-and-apis",
   "version": "1.0.0",
-  "author": "Hesham Rajab Hesham.7.r@gmail.com",
+  "author": "Hesham Rajab",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js", 
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
 }
