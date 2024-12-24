@@ -1,7 +1,7 @@
 {
   "name": "back-end-development-and-apis",
   "version": "1.0.0",
-  "author": "Hesham Rajab",
+  "author": "Jane Doe",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
